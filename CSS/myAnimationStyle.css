@@ -38,7 +38,7 @@ footer {
    10% {transform: rotate(0deg);left:0px;}
    15% {transform: rotate(120deg);}
    30% {transform: rotate(0deg);left:400px;}
-   40% {transform: scale(15,15);left:400px;}
+   40% {transform: scale(10,10);left:400px;}
    46% {transform: scale(10,10);left:400px;}
    50% {transform: rotate(0deg);left:400px;}
    60% {transform: rotate(360deg);left:800px;background:#FF9800;}
